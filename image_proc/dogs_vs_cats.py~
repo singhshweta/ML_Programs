@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Nov 14 01:09:41 2017
+
+@author: shweta
+"""
+
 import cv2                 # working with, mainly resizing, images
 import numpy as np         # dealing with arrays
 import os                  # dealing with directories
