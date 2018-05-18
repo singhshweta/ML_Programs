@@ -6,10 +6,10 @@ import sentiment_mod as s
 import re
 
 #consumer key, consumer secret, access token, access secret.
-ckey='uUMqlnxxE8T49Nzlv7mgwONZr'
-csecret='JND0fpbncSxrRxs14SwMCdDREozZO40FTI81GPGPygU5ZTkcV6'
-atoken='997005544886956034-xfqFDRJajJeCSoWJzyGn6dXiyuSfv7c'
-asecret='gqfZITF7M4BTPeFuj0jlyIqa59TmxYHVRYg3OlGvtBKae'
+ckey='asdfghjkfghjk'
+csecret='ertyuizxcvbnmcvbn'
+atoken='12345-tyunmsdfnmdcvyhni'
+asecret='wesdfcvyghzxcvv'
 class listener(StreamListener):
 
     def on_data(self, data):
